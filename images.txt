@@ -4,5 +4,6 @@ nginx
 #xhofe/alist:latest
 #otel/opentelemetry-collector-contrib:0.88.0
 jaegertracing/all-in-one:1.52
+golang:1.22.3-alpine3.20
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
