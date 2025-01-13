@@ -6,6 +6,7 @@ nginx
 #jaegertracing/all-in-one:1.52
 #golang:1.22.3-alpine3.20
 #alpine:3.20
-prom/prometheus:v2.53.1
+#prom/prometheus:v2.53.1
+prom_altermanager:v0.27.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist 
